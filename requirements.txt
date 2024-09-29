@@ -1,0 +1,7 @@
+faiss-cpu
+pickle5
+langchain-community
+transformers
+sentence-transformers
+torch
+pymupdf
